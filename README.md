@@ -11,3 +11,9 @@ exec y/n
 + **-f [filename]** : _mention the java file compile and execute_
 + **-c** : _clear console before exectuting_
 + **-a** : _don't ask the user to confirm confirmation to execute the program_
+
+# To do
+- multi parameters system : the parameters are taken in account no matter their position
+- auto mode : the program don't ask anything and execute my Main.java _please_
+- auto execute : once the java file is saved (continuous runtime)
+- save as a copy 
