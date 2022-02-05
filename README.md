@@ -1,10 +1,15 @@
 # Javex
 A bash simple script to execute my java programs automatically (yes I'm lazy)
+
 ```console
-foo@bar:~$ ./javex.sh -f Main.java -c -a 
-Compilation de  Main.java
-compilation reussie !
-exec y/n
+foo@bar:~$ ./javex.sh -f Main.java
+```
+```console
+Compilation de Main.java ...
+[##########(100%)]
+Compilation reussie !
+exec y/n :y
+execution de  Main.java
 ```
 
 # Parameters 
