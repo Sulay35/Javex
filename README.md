@@ -8,6 +8,6 @@ exec y/n
 ```
 
 # Parameters 
-+ **-f [filename]** : mention the filename to execute
-+ **-c** : clear console before exectuting
-+ **-a** : don't ask the user to confirm confirmation to execute the program
++ **-f [filename]** : _mention the java file compile and execute_
++ **-c** : _clear console before exectuting_
++ **-a** : _don't ask the user to confirm confirmation to execute the program_
